@@ -9,7 +9,7 @@ import jakarta.servlet.http.HttpServletResponse;
 
 import java.io.IOException;
 
-@WebServlet("/redirect")
+@WebServlet("/redirection")
 public class RedirectionServlet extends HttpServlet {
 
     @Override
